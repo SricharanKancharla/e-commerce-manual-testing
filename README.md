@@ -1,5 +1,9 @@
 # E-Commerce Website Manual Testing Project
 
+![Testing](https://img.shields.io/badge/Testing-Manual-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Platform](https://img.shields.io/badge/Platform-Web-orange)
+
 ## 📋 Project Overview
 
 This project demonstrates comprehensive manual testing of a generic public e-commerce website, focusing on critical user journeys and core shopping functionalities. The testing validates the complete guest user experience from product discovery through checkout.
@@ -15,21 +19,21 @@ This project demonstrates comprehensive manual testing of a generic public e-com
 ## 🔍 Testing Scope
 
 ### In Scope
-- ✅ Homepage functionality and navigation
-- ✅ Product search with keyword functionality
-- ✅ Product listing page (PLP) display and filters
-- ✅ Product detail page (PDP) information
-- ✅ Shopping cart management
-- ✅ Guest checkout process
-- ✅ UI/UX validation
+- Homepage functionality and navigation
+- Product search with keyword functionality
+- Product listing page (PLP) display and filters
+- Product detail page (PDP) information
+- Shopping cart management
+- Guest checkout process
+- UI/UX validation
 
 ### Out of Scope
-- ❌ Payment gateway integration
-- ❌ User account creation and login
-- ❌ Admin panel functionality
-- ❌ Backend systems
-- ❌ Email notifications
-- ❌ Third-party integrations
+- Payment gateway integration
+- User account creation and login
+- Admin panel functionality
+- Backend systems
+- Email notifications
+- Third-party integrations
 
 ## 🧪 Test Scenarios
 
